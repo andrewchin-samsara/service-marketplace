@@ -1,0 +1,5 @@
+{
+  "name": "Samsara Service Marketplace",
+  "description": "A comprehensive service and parts marketplace for fleet maintenance, modeled after the Samsara platform UI.",
+  "requestFramePermissions": []
+}
